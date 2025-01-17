@@ -1,4 +1,4 @@
-# Grzybnia Simulation Project
+# Fungal Growth Simulation
 
 ## Opis projektu
 Ten projekt symuluje wzrost sieci grzybni w środowisku wirtualnym za pomocą automatów komórkowych. Projekt został zrealizowany w ramach kursu Symulacja Systemów Dyskretnych w Akademii Górniczo-Hutniczej w Krakowie. Symulacja pozwala na analizę procesów eksploracji i eksploatacji zasobów oraz adaptacji grzybni do zróżnicowanych warunków środowiskowych.
