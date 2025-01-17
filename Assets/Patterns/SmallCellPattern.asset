@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a6993487abae84c918a9fd96e4f3ad, type: 3}
+  m_Name: SmallCellPattern
+  m_EditorClassIdentifier: 
+  cellDataList:
+  - Position: {x: 3, y: 3, z: 0}
+    Cell: {fileID: 0}
+  - Position: {x: 3, y: 4, z: 0}
+    Cell: {fileID: 0}
+  - Position: {x: 2, y: 3, z: 0}
+    Cell: {fileID: 0}
+  - Position: {x: 3, y: 2, z: 0}
+    Cell: {fileID: 0}
+  - Position: {x: 4, y: 2, z: 0}
+    Cell: {fileID: 0}
+  - Position: {x: 4, y: 3, z: 0}
+    Cell: {fileID: 0}
+  - Position: {x: 4, y: 4, z: 0}
+    Cell: {fileID: 0}

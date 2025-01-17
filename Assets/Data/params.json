@@ -1,0 +1,9 @@
+{
+    "growth": 1.1988414525985718,
+    "growthForward": 0.5563981533050537,
+    "branching": 0.2879205346107483,
+    "diffusion": 0.34873130917549136,
+    "cellMovement": 0.3499724268913269,
+    "environmentSubstrate": 0.3015718460083008,
+    "cellCreationSubstrate": 25.0
+}
